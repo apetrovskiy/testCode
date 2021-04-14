@@ -14,17 +14,17 @@
 		"python.testing.pytestEnabled": true,
 		"python.testing.unittestEnabled": true,
 		"python.testing.pytestArgs": [
-			"src/test/java"
+			"src/test/java/testCode"
 		],
 		"python.testing.unittestArgs": [
 			"-v",
 			"-s",
-			"./src/test/java",
+			"./src/test/java/testCode",
 			"-p",
 			"test_*.py"
 		],
 		"python.testing.nosetestArgs": [
-			"src/test/java"
+			"src/test/java/testCode"
 		],
 		"java.configuration.updateBuildConfiguration": "automatic",
 		"editor.tokenColorCustomizations": {
