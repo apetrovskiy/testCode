@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Apr 16 06:50:06 GMT 2021","Fri Apr 16 06:50:06 GMT 2021","0","src.test.java.testCode","test_sample","","","","test_sample[1-1]",""
