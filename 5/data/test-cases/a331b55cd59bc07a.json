@@ -1,0 +1,97 @@
+{
+  "uid" : "a331b55cd59bc07a",
+  "name" : "test_sample[1-1]",
+  "fullName" : "src.test.java.testCode.test_sample#test_sample",
+  "historyId" : "83c833448cd1e14be91f52fe3928c3b9",
+  "time" : {
+    "start" : 1619266264595,
+    "stop" : 1619266264596,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCode"
+  }, {
+    "name" : "suite",
+    "value" : "test_sample"
+  }, {
+    "name" : "host",
+    "value" : "fv-az173-665"
+  }, {
+    "name" : "thread",
+    "value" : "2137-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCode.test_sample"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "1"
+  }, {
+    "name" : "input",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "3e8a8529d4bad1fa",
+        "reportUrl" : "https://apetrovskiy.github.io/testCode/4//#testresult/3e8a8529d4bad1fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618981306762,
+          "stop" : 1618981306762,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "4980c524f472c850",
+        "reportUrl" : "https://apetrovskiy.github.io/testCode/3//#testresult/4980c524f472c850",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618611960922,
+          "stop" : 1618611960922,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "cc5145540a2e25d4",
+        "reportUrl" : "https://apetrovskiy.github.io/testCode/2//#testresult/cc5145540a2e25d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618555806709,
+          "stop" : 1618555806709,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a331b55cd59bc07a.json",
+  "parameterValues" : [ "1", "1" ]
+}
