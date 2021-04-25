@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "8d5de059e5021934",
+      "reportUrl" : "https://apetrovskiy.github.io/testCode/9//#testresult/8d5de059e5021934",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619385549709,
+        "stop" : 1619385549710,
+        "duration" : 1
+      }
+    }, {
       "uid" : "b490aa7752326a7a",
       "reportUrl" : "https://apetrovskiy.github.io/testCode/8//#testresult/b490aa7752326a7a",
       "status" : "passed",
