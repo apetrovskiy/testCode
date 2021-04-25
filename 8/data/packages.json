@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "src.test.java.testCode.test_sample",
+    "children" : [ {
+      "name" : "test_sample[1-1]",
+      "uid" : "b490aa7752326a7a",
+      "parentUid" : "a7b44d569d977ac2cdff4bdf68a9a762",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619382997477,
+        "stop" : 1619382997477,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "1" ]
+    } ],
+    "uid" : "src.test.java.testCode.test_sample"
+  } ],
+  "name" : "packages"
+}
