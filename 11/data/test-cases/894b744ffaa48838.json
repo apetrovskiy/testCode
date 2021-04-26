@@ -1,0 +1,80 @@
+{
+  "uid" : "894b744ffaa48838",
+  "name" : "test_sum_of_square_of_first_n_odd_numbers[3-35]",
+  "fullName" : "src.test.java.testCode.challenges.SumOfSquareOfFirstNOddNumbers.test_sum_of_square_of_first_n_odd_numbers#test_sum_of_square_of_first_n_odd_numbers",
+  "historyId" : "c4a397c4936069871d7657e937ce2a49",
+  "time" : {
+    "start" : 1619398739117,
+    "stop" : 1619398739117,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCode.challenges.SumOfSquareOfFirstNOddNumbers"
+  }, {
+    "name" : "suite",
+    "value" : "test_sum_of_square_of_first_n_odd_numbers"
+  }, {
+    "name" : "host",
+    "value" : "fv-az190-79"
+  }, {
+    "name" : "thread",
+    "value" : "2005-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCode.challenges.SumOfSquareOfFirstNOddNumbers.test_sum_of_square_of_first_n_odd_numbers"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "35"
+  }, {
+    "name" : "input_number",
+    "value" : "3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "ec2fcc45add08df2",
+        "reportUrl" : "https://apetrovskiy.github.io/testCode/10//#testresult/ec2fcc45add08df2",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 35 == 0\n +  where 0 = sum_of_square_of_first_n_odd_numbers(3)",
+        "time" : {
+          "start" : 1619398416111,
+          "stop" : 1619398416112,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "894b744ffaa48838.json",
+  "parameterValues" : [ "35", "3" ]
+}
