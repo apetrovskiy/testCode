@@ -1,5 +1,4 @@
 import pytest
-from typing import List
 from src.main.java.testCode.challenges.SumOfSquareOfFirstNOddNumbers. \
     sum_of_square_of_first_n_odd_numbers \
     import sum_of_square_of_first_n_odd_numbers
