@@ -6,12 +6,12 @@
       "name" : "test_sample",
       "children" : [ {
         "name" : "test_sample[1-1]",
-        "uid" : "f061fb006aff3dfc",
+        "uid" : "4fd88c83952aeee8",
         "parentUid" : "a7b44d569d977ac2cdff4bdf68a9a762",
         "status" : "passed",
         "time" : {
-          "start" : 1619846931601,
-          "stop" : 1619846931601,
+          "start" : 1619847407814,
+          "stop" : 1619847407814,
           "duration" : 0
         },
         "flaky" : false,
@@ -23,12 +23,12 @@
       "name" : "challenges.SumOfSquareOfFirstNOddNumbers.test_sum_of_square_of_first_n_odd_numbers",
       "children" : [ {
         "name" : "test_sum_of_square_of_first_n_odd_numbers[3-35]",
-        "uid" : "298aba8afe068b66",
+        "uid" : "a73f9e56137760fc",
         "parentUid" : "feb8a7434a0cdd188a9992a5e5338134",
         "status" : "passed",
         "time" : {
-          "start" : 1619846931604,
-          "stop" : 1619846931604,
+          "start" : 1619847407817,
+          "stop" : 1619847407817,
           "duration" : 0
         },
         "flaky" : false,
@@ -36,12 +36,12 @@
         "parameters" : [ "35", "3" ]
       }, {
         "name" : "test_sum_of_square_of_first_n_odd_numbers[5-165]",
-        "uid" : "e34f6a9a9bdf27af",
+        "uid" : "2ebb7ba03426ffd",
         "parentUid" : "feb8a7434a0cdd188a9992a5e5338134",
         "status" : "passed",
         "time" : {
-          "start" : 1619846931607,
-          "stop" : 1619846931607,
+          "start" : 1619847407820,
+          "stop" : 1619847407820,
           "duration" : 0
         },
         "flaky" : false,
@@ -49,12 +49,12 @@
         "parameters" : [ "165", "5" ]
       }, {
         "name" : "test_sum_of_square_of_first_n_odd_numbers[1-1]",
-        "uid" : "c5e5199c2e90801e",
+        "uid" : "ba634a9784def7ee",
         "parentUid" : "feb8a7434a0cdd188a9992a5e5338134",
         "status" : "passed",
         "time" : {
-          "start" : 1619846931610,
-          "stop" : 1619846931610,
+          "start" : 1619847407822,
+          "stop" : 1619847407822,
           "duration" : 0
         },
         "flaky" : false,

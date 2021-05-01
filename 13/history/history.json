@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 3
+      "total" : 4
     },
     "items" : [ {
+      "uid" : "ba634a9784def7ee",
+      "reportUrl" : "https://apetrovskiy.github.io/testCode/13//#testresult/ba634a9784def7ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619847407822,
+        "stop" : 1619847407822,
+        "duration" : 0
+      }
+    }, {
       "uid" : "c5e5199c2e90801e",
       "reportUrl" : "https://apetrovskiy.github.io/testCode/13//#testresult/c5e5199c2e90801e",
       "status" : "passed",
@@ -42,11 +51,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 3
+      "total" : 4
     },
     "items" : [ {
+      "uid" : "2ebb7ba03426ffd",
+      "reportUrl" : "https://apetrovskiy.github.io/testCode/13//#testresult/2ebb7ba03426ffd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619847407820,
+        "stop" : 1619847407820,
+        "duration" : 0
+      }
+    }, {
       "uid" : "e34f6a9a9bdf27af",
       "reportUrl" : "https://apetrovskiy.github.io/testCode/13//#testresult/e34f6a9a9bdf27af",
       "status" : "passed",
@@ -80,11 +98,20 @@
       "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 4
+      "total" : 5
     },
     "items" : [ {
+      "uid" : "a73f9e56137760fc",
+      "reportUrl" : "https://apetrovskiy.github.io/testCode/13//#testresult/a73f9e56137760fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619847407817,
+        "stop" : 1619847407817,
+        "duration" : 0
+      }
+    }, {
       "uid" : "298aba8afe068b66",
       "reportUrl" : "https://apetrovskiy.github.io/testCode/13//#testresult/298aba8afe068b66",
       "status" : "passed",
@@ -128,11 +155,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 12,
+      "passed" : 13,
       "unknown" : 0,
-      "total" : 12
+      "total" : 13
     },
     "items" : [ {
+      "uid" : "4fd88c83952aeee8",
+      "reportUrl" : "https://apetrovskiy.github.io/testCode/13//#testresult/4fd88c83952aeee8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619847407814,
+        "stop" : 1619847407814,
+        "duration" : 0
+      }
+    }, {
       "uid" : "f061fb006aff3dfc",
       "reportUrl" : "https://apetrovskiy.github.io/testCode/13//#testresult/f061fb006aff3dfc",
       "status" : "passed",
