@@ -1,0 +1,73 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "src.test.java.testCode",
+    "children" : [ {
+      "name" : "test_sample",
+      "children" : [ {
+        "name" : "test_sample[1-1]",
+        "uid" : "cddb54d8f99c64ab",
+        "parentUid" : "38fb9d8921fcf930b1b8a9abfa2c6941",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620336707026,
+          "stop" : 1620336707026,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "1" ]
+      } ],
+      "uid" : "38fb9d8921fcf930b1b8a9abfa2c6941"
+    } ],
+    "uid" : "203e03427834e6b6c261ceda635ed98d"
+  }, {
+    "name" : "src.test.java.testCode.challenges.SumOfSquareOfFirstNOddNumbers",
+    "children" : [ {
+      "name" : "test_sum_of_square_of_first_n_odd_numbers",
+      "children" : [ {
+        "name" : "test_sum_of_square_of_first_n_odd_numbers[3-35]",
+        "uid" : "fe237f1f06f487be",
+        "parentUid" : "577873bf6258928b73a7ab5c5a74dd5f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620336707029,
+          "stop" : 1620336707029,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "35", "3" ]
+      }, {
+        "name" : "test_sum_of_square_of_first_n_odd_numbers[5-165]",
+        "uid" : "1bab20fd7692fb65",
+        "parentUid" : "577873bf6258928b73a7ab5c5a74dd5f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620336707031,
+          "stop" : 1620336707032,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "165", "5" ]
+      }, {
+        "name" : "test_sum_of_square_of_first_n_odd_numbers[1-1]",
+        "uid" : "a0268813f3327e36",
+        "parentUid" : "577873bf6258928b73a7ab5c5a74dd5f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620336707034,
+          "stop" : 1620336707034,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "1" ]
+      } ],
+      "uid" : "577873bf6258928b73a7ab5c5a74dd5f"
+    } ],
+    "uid" : "4742b86d4143d2a9ece997967fec9d92"
+  } ],
+  "name" : "suites"
+}
