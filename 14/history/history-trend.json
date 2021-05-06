@@ -6,6 +6,186 @@
     "failed" : 0,
     "broken" : 0,
     "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/12/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/11/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/10/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 2
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/9/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/8/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/7/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/4/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/2/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 0
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "https://apetrovskiy.github.io/testCode/14/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
     "passed" : 0,
     "unknown" : 0,
     "total" : 0
