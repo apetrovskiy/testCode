@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 13 14:52:21 GMT 2021","Thu May 13 14:52:21 GMT 2021","1","src.test.java.testCode","test_sample","","","","test_sample[1-1]",""
+"passed","Thu May 13 14:52:21 GMT 2021","Thu May 13 14:52:21 GMT 2021","0","src.test.java.testCode.challenges.SumOfSquareOfFirstNOddNumbers","test_sum_of_square_of_first_n_odd_numbers","","","","test_sum_of_square_of_first_n_odd_numbers[1-1]",""
+"passed","Thu May 13 14:52:21 GMT 2021","Thu May 13 14:52:21 GMT 2021","0","src.test.java.testCode.challenges.SumOfSquareOfFirstNOddNumbers","test_sum_of_square_of_first_n_odd_numbers","","","","test_sum_of_square_of_first_n_odd_numbers[5-165]",""
+"passed","Thu May 13 14:52:21 GMT 2021","Thu May 13 14:52:21 GMT 2021","0","src.test.java.testCode.challenges.SumOfSquareOfFirstNOddNumbers","test_sum_of_square_of_first_n_odd_numbers","","","","test_sum_of_square_of_first_n_odd_numbers[3-35]",""
