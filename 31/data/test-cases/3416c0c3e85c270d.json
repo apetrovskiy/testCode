@@ -1,0 +1,59 @@
+{
+  "uid" : "3416c0c3e85c270d",
+  "name" : "test_sum_of_square_of_first_n_odd_numbers[1-1]",
+  "fullName" : "src.test.java.testCode.challenges.SumOfSquareOfFirstNOddNumbers.test_sum_of_square_of_first_n_odd_numbers#test_sum_of_square_of_first_n_odd_numbers",
+  "historyId" : "6c4d70516da2430190452ce82425ed52",
+  "time" : {
+    "start" : 1699399249781,
+    "stop" : 1699399249781,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCode.challenges.SumOfSquareOfFirstNOddNumbers"
+  }, {
+    "name" : "suite",
+    "value" : "test_sum_of_square_of_first_n_odd_numbers"
+  }, {
+    "name" : "host",
+    "value" : "fv-az888-640"
+  }, {
+    "name" : "thread",
+    "value" : "2214-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCode.challenges.SumOfSquareOfFirstNOddNumbers.test_sum_of_square_of_first_n_odd_numbers"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "1"
+  }, {
+    "name" : "input_number",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3416c0c3e85c270d.json",
+  "parameterValues" : [ "1", "1" ]
+}
