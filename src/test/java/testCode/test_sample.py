@@ -1,9 +1,7 @@
 import pytest
 
 
-test_data = [
-    (1, 1)
-]
+test_data = [(1, 1)]
 
 
 # TODO: remove the useless test

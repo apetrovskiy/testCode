@@ -1,5 +1,5 @@
 name: 
-  testCoWa
+  testCode
 dependencies:
   test:
 environment:
